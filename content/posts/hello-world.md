@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
 date: 2024-06-10T15:41:52+08:00
-draft: true
+draft: false
 ---
 
 #### k8s pod、replicaset、deployment、service、node
